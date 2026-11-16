@@ -45,7 +45,6 @@
       <td align="center"><a href="https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f" target="_blank" title="Go To Mohamed El Desoky Introduction To The Java Programming Language">
         <img src="https://img.shields.io/badge/Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
         <br />
-        <br />
         <a href="https://www.youtube.com/watch?v=KYhy6Q914C0" target="_blank" title="Go To Mohamed El Desoky Introduction To The Java Programming Language">
         <img src="https://img.shields.io/badge/Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
       </td>
