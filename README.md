@@ -32,7 +32,7 @@
 --------------------------------------------------------------------------------------------------------
 ### Different Courses Links That Used Inside This Repoistory:
 
-<table align="justify">
+<table align="center">
   <thead>
     <tr>
       <th>Description:</th>
