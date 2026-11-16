@@ -3,6 +3,8 @@
 <p align="justify">An introduction to Java, one of the most popular object-oriented programming languages. This section covers the fundamental concepts of Java programming and builds a strong foundation for developing software applications.
 </p>
 
+---------------------------------------------------------------------
+
 ### Topics Covered:
 
 - Introduction to Java and its history.
@@ -36,6 +38,11 @@ Watch Java Programming Course on YouTube...
       <td>00</td>
       <td>Frist Introduction To Programming...</td>
       <td><a href="https://www.youtube.com/watch?v=FbviMTJ_vP8&t=1s" title="Go To The Frist Introduction To Programming Video..." target="_blank"><img src="https://img.shields.io/badge/Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td>01</td>
+      <td>Second Introduction To Programming...</td>
+      <td><a href="https://www.youtube.com/watch?v=KYhy6Q914C0" title="Go To The Second Introduction To Programming Video..." target="_blank"><img src="https://img.shields.io/badge/Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></td>
     </tr>
   </tbody>
 </table>
