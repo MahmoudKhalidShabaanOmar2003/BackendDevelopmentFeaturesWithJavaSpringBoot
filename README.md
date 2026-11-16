@@ -1,6 +1,6 @@
 # Backend Development Features with Java Spring Boot:
 
-<p align="center">A backend development project built using Java and Spring Boot, focusing on developing robust, scalable, and maintainable RESTful APIs. The project demonstrates essential backend development concepts, including business logic implementation, database integration, API design, and application architecture.</p>
+<p align="justify">A backend development project built using Java and Spring Boot, focusing on developing robust, scalable, and maintainable RESTful APIs. The project demonstrates essential backend development concepts, including business logic implementation, database integration, API design, and application architecture.</p>
 
 ### Key Features:
   - RESTful APIs: Design and develop REST endpoints for handling client requests.
@@ -27,12 +27,12 @@
 
 ### Project Goal:
 
-<p align="center">The goal of this project is to demonstrate practical backend development skills with Java Spring Boot while applying industry-standard practices to build reliable and maintainable backend applications.</p>
+<p align="justify">The goal of this project is to demonstrate practical backend development skills with Java Spring Boot while applying industry-standard practices to build reliable and maintainable backend applications.</p>
 
 --------------------------------------------------------------------------------------------------------
 ### Different Courses Links That Used Inside This Repoistory:
 
-<table align="center">
+<table align="justify">
   <thead>
     <tr>
       <th>Description:</th>
@@ -42,7 +42,7 @@
   <tbody>
     <tr>
       <td align="center">Introduction To JAVA Programming Language...</td>
-      <td align="center"><a href="https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f" target="_blank" title="Go To Mohamed El Desoky Introduction To The Java Programming Language">Watch Course...<img src="https://img.shields.io/badge/Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=FbviMTJ_vP8&list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f" target="_blank" title="Go To Mohamed El Desoky Introduction To The Java Programming Language"><img src="https://img.shields.io/badge/Watch%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></td>
     </tr>
   </tbody>
 </table>
