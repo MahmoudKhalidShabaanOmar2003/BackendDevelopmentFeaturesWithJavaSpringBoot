@@ -1,11 +1,11 @@
-<h1 style="color:#fe0535; background-color: #09c">1)**Introduction To The Java Programming Language:</h1>
+# 1)**Introduction To The Java Programming Language:
 
 <p align="justify">An introduction to Java, one of the most popular object-oriented programming languages. This section covers the fundamental concepts of Java programming and builds a strong foundation for developing software applications.
 </p>
 
 ---------------------------------------------------------------------
 
-<span style="color:fe0535; background-color: #09c"> ### Topics Covered:</span>
+### Topics Covered:
 
 - Introduction to Java and its history.
 - Java features and characteristics.
