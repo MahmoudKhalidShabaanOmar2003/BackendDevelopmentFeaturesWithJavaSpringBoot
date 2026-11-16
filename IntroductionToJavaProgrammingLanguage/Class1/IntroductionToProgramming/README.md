@@ -1,10 +1,7 @@
 # 00)**Introduction To Programming With Java Programming Language:
 
--------------------------------------------------------------------------
-
 ## 00.01)**What 's The Programming?
 
--------------------------------------------------------------------------
 - Programming , Or Program Development Life Cycle (PDLC) Is A Process Of Problem Solving...
     - <p align="justify">Input: It Is Different Data (Data Items) That Gets From The User Of Your Own Java Computer Programming Codes...</p>
     - <p align="justify">Processing: It Is Different Methods (Functions , Or Operations) That Done On The Input That Get From The User Of Your Own Java Computer Programming Codes To Get The Specified Output Of Your Own Java Computer Programming Codes...</p>
@@ -82,8 +79,11 @@
 
 ----------------------------------------------------------------------------------
 ## 00.02)**Rectangle Area Example:
+
 - ##### Input (Data , Or Data Items): It Refers To Rectangle Length , And Rectangle Width...
+
 - ##### Processing (Methods , Operations , Or Functions): It Refers To The Multiplication Of The Rectangle Length By The Rectangle Width...
+ 
 - ##### Output (Information , Or Result): It Prints Out The Area Of The Rectangle For The User Of Your Own Java Computer Programming Codes...
 
 ------------------------------------------------------------------------------------
