@@ -36,8 +36,30 @@
 
 --------------------------------------------------------------------------------------------------
 
+<table>
+  <tr>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/JDK.png" alt="Java Development Kit..." /></td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/JRE.png" alt="Java Runtime Environment..." />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/JVM.png" alt="Java Virtual Machine..." />
+    </td>
+  </tr>
+</table>
+
+---------------------------------------------------------------------------------------------------
+
 ### 01.04)**What Is The Netbeans?
 
   - <p align="justify">It Is One Of Many IDEs (Text Editors) That Mainly Used To Write Your Own Java Computer Programming Codes , And Then Executing , Or Running Your Own Java Computer Programming Codes...</p>
 
-  
+---------------------------------------------------------------------------------------------------
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/01-InstallTheJavaLanguage1.png" width="75%" alt="How To Install The Java Programming Language..." /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/02-InstallTheJavaLanguage2.png" width="75%" alt="How To Install The Java Programming Language..." /></td>
+  </tr>
+</table>
