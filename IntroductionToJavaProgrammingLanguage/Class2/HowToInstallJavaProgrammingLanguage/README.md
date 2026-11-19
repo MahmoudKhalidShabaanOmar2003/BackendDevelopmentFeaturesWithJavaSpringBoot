@@ -55,11 +55,11 @@
   - <p align="justify">It Is One Of Many IDEs (Text Editors) That Mainly Used To Write Your Own Java Computer Programming Codes , And Then Executing , Or Running Your Own Java Computer Programming Codes...</p>
 
 ---------------------------------------------------------------------------------------------------
-<table align="center">
+<table align="center" width="75%">
   <tr>
-    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/01-InstallTheJavaLanguage1.png" width="75%" alt="How To Install The Java Programming Language..." /></td>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/01-InstallTheJavaLanguage1.png" width="100%" alt="How To Install The Java Programming Language..." /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/02-InstallTheJavaLanguage2.png" width="75%" alt="How To Install The Java Programming Language..." /></td>
+    <td><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class2/HowToInstallJavaProgrammingLanguage/HowToInstallJavaProgrammingLanguageImages/02-InstallTheJavaLanguage2.png" width="100%" alt="How To Install The Java Programming Language..." /></td>
   </tr>
 </table>
