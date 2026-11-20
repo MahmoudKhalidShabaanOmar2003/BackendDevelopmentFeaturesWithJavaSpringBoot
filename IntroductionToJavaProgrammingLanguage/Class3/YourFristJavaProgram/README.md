@@ -85,15 +85,17 @@
 ### 02.5)**There Are Different Types Of The Programming Errors In The Java Programming Language Like:
 
   - <p align="justify">02.5.1)**Syntax Error: It Is Detected By Any Compiler (Text Editors (IDEs)) Like NetBeans... For Example:</p>
-  
     - <p align="justify">02.5.1.1)**Forgetting Semicolon (;) At The End Of Any Coding Line In Your Own Java Computer 
       Programming Codes...</p>
 
    <p align="center"><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/SyntaxError1.png" alt="Forgetting Semicolon Error..." /></p>
      - <p align="justify">02.5.1.2)**Using system , By Using The Frist Letter From The System Package As A Small Letter...</p>
     <p align="center"><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/SyntaxError2.png" alt="Case Sensitive Error..." /></p>
+    
   - <p align="justify">02.5.2)**Logical Error: It Produces Un Expected , Or Incorrect Result (Output) From Your Own Java Computer Programming Codes... For Example:</p>
+  
     - <p align="justify">02.5.2.1)**If You Want To Divide Two Integer Numbers Like The Frist Number Is Equal To 4 , And The Second Number Is Equal To 3 , And The Result Will Store In Variable Named By Division With Integer Data Type , This Produces An Un Expected Result Like 1 , Not 1.333333....</p>
+    
     <table>
       <tr>
         <td align="center">
