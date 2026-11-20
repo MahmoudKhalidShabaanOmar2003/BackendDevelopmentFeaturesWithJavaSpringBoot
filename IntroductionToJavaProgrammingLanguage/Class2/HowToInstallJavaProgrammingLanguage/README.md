@@ -24,7 +24,7 @@
 
 ### 01.03)**What Is The JRE (Java Runtime Environment)?
 
-  - 01.03.1)**<p align="justify">JRE (Java Runtime Environment) Is Mainly Used To Run , Or Execute Your Own Java Computer Programming Codes...</p>
+  - <p align="justify">JRE (Java Runtime Environment) Is Mainly Used To Run , Or Execute Your Own Java Computer Programming Codes...</p>
 ------------------------------------------------------------------------------------------------
 
   ##### 01.03.2)**There Are Different Features Of The JRE (Java Runtime Environment)?
