@@ -108,7 +108,7 @@
       </tr>
       <tr>
         <td>
-          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalError1.png" height="100%"/>
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalError1.png" height="100"/>
         </td>
         <td>
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalErrorOutput.png" />
