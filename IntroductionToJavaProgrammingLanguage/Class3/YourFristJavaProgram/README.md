@@ -85,11 +85,14 @@
 ### 02.5)**There Are Different Types Of The Programming Errors In The Java Programming Language Like:
 
   - <p align="justify">02.5.1)**Syntax Error: It Is Detected By Any Compiler (Text Editors (IDEs)) Like NetBeans... For Example:</p>
+  
     - <p align="justify">02.5.1.1)**Forgetting Semicolon (;) At The End Of Any Coding Line In Your Own Java Computer 
       Programming Codes...</p>
 
    <p align="center"><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/SyntaxError1.png" alt="Forgetting Semicolon Error..." /></p>
-     - <p align="justify">02.5.1.2)**Using system , By Using The Frist Letter From The System Package As A Small Letter...</p>
+
+  - <p align="justify">02.5.1.2)**Using system , By Using The Frist Letter From The System Package As A Small Letter...</p>
+     
     <p align="center"><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/SyntaxError2.png" alt="Case Sensitive Error..." /></p>
     
   - <p align="justify">02.5.2)**Logical Error: It Produces Un Expected , Or Incorrect Result (Output) From Your Own Java Computer Programming Codes... For Example:</p>
@@ -98,13 +101,14 @@
     
     <table>
       <tr>
-        <td align="center">
+        <td align="center" colspan="2" >
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalError.png" />
         </td>
+        <td></td>
       </tr>
       <tr>
         <td>
-          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalError1.png" />
+          <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalError1.png" height="100%"/>
         </td>
         <td>
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalErrorOutput.png" />
