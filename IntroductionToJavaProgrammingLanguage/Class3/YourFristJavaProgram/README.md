@@ -104,7 +104,7 @@
         <td align="center" colspan="2" >
           <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/LogicalError.png" />
         </td>
-        <td></td>
+        <!-- <td></td> -->
       </tr>
       <tr>
         <td>
