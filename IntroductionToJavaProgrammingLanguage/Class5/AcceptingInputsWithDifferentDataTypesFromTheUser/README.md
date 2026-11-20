@@ -1,4 +1,4 @@
-# 04)**Accepting Inputs With Different Data Types From The User:
+## 04)**Accepting Inputs With Different Data Types From The User:
 
 ### 04.1)**How To Get Any Input With Different Data Types From The User:
 
