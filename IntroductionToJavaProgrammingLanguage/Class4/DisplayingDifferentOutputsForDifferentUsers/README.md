@@ -18,4 +18,14 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 > [!Important]
-> <p align="justify">**Different Text Editors (IDEs) Like NetBeans , Eclipse , And More Agnors Different Spaces In Your Own Java Computer Programming Codes...</p>
+> <p align="justify">**Different Text Editors (IDEs) Like NetBeans , Eclipse , And More Agnors Different Spaces To Go To The New Line In Your Own Java Computer Programming Codes...</p>
+> <table>
+  <tr>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class4/DisplayingDifferentOutputsForDifferentUsers/DisplayingDifferentOutputsForDifferentUsersImages/DisplayingOutputsWithSpaces%20(1).png" />
+    </td>
+    <td>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class4/DisplayingDifferentOutputsForDifferentUsers/DisplayingDifferentOutputsForDifferentUsersImages/DisplayingOutputsWithSpaces%20(2).png" />
+    </td>
+  </tr>
+</table>
