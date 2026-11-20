@@ -3,33 +3,33 @@
 ### 02.1)**What Is Class In The Java Programming Language?
 
   - <p align="justify">02.1.1)**Class In The Java Programming Language Is A Group Of Data Items (Inputs) , And Methods (Functions , Operations , Or Processor) About Your Own Java Computer Programming Codes...</p>
-    - 02.1.1.1)<p align="justify">**Data Item: It Also Called Input , Or Data , It Refers To Different Data Items That Got From The User Of Your Own Java Computer Programming Codes...</p>
-    - 02.1.1.2)<p align="justify">**Methods: It Also Called Operations , Processors , Or Functions , It Refers To Different Operations That Done On The Data Item (Input) Of Your Own Java Computer Programming Codes To Display The Output Of Your Own Java Computer Programming Codes...</p>
+    - <p align="justify">02.1.1.1)**Data Item: It Also Called Input , Or Data , It Refers To Different Data Items That Got From The User Of Your Own Java Computer Programming Codes...</p>
+    - <p align="justify">02.1.1.2)**Methods: It Also Called Operations , Processors , Or Functions , It Refers To Different Operations That Done On The Data Item (Input) Of Your Own Java Computer Programming Codes To Display The Output Of Your Own Java Computer Programming Codes...</p>
 
 ----------------------------------------------------------------------------------------------------------
 
 ### 02.2)**What Is Main Method In The Java Programming Language?
 
-  - 02.2.1)<p align="justify">**Any Java Computer Programming Codes Contain Only One Main Method (Main Function)...</p>
-  - 02.2.2)<p align="justify">**It Is The Main Function That Any Text Editors (IDEs) Like NetaBeans Start Executing Or Running Your Own Java Computer Programming Codes From This Method...</p>
-    - 02.2.2.1)<p align="justify">**Main Method Is The Entry Point , Or Starting Point That Any Text Editors (IDEs) Like NetBeans Starting The Executing , Or Running Process From This Point...
+  - <p align="justify">02.2.1)**Any Java Computer Programming Codes Contain Only One Main Method (Main Function)...</p>
+  - <p align="justify">02.2.2)**It Is The Main Function That Any Text Editors (IDEs) Like NetaBeans Start Executing Or Running Your Own Java Computer Programming Codes From This Method...</p>
+    - <p align="justify">02.2.2.1)**Main Method Is The Entry Point , Or Starting Point That Any Text Editors (IDEs) Like NetBeans Starting The Executing , Or Running Process From This Point...
    
 ------------------------------------------------------------------------------------------------------------
 
 ### 02.3)**How To Display A Message (Text) For The User Of Your Own Java Computer Programming Codes?
 
-  - 02.3.1)<p align="justify">**If You Want To Print A Message For The User Of Your Own Java Computer Programming Codes , Then You Must Use: <strong>System.out.print("Welcome To Java");</strong></P>
-  - 02.3.2)<p align="justify"><strong>**There Are Different Features Of The Print Statement Like:</strong></p>
-    - 02.3.2.1)<p align="justify">**System: It Is A Java Programming Packages That Contains A Collection Of Java Methods , And Java Classes...</p>
-    - 02.3.2.2)<p align="justify">**out: It Is A Java Programming Class From The System Package From The Programming Language That Mainly Used To Get Print Method To Print A Message For The User Of Your Own Java Computer Programming Code...</P>
-    - 02.3.2.3)<p align="center">**print: It Is Mainly Used To Print A Message Text For The User Of Your Own Java Computer Programming Codes...</p>
+  - <p align="justify">02.3.1)**If You Want To Print A Message For The User Of Your Own Java Computer Programming Codes , Then You Must Use: <strong>System.out.print("Welcome To Java");</strong></P>
+  - <p align="justify">02.3.2)<strong>**There Are Different Features Of The Print Statement Like:</strong></p>
+    - <p align="justify">02.3.2.1)**System: It Is A Java Programming Packages That Contains A Collection Of Java Methods , And Java Classes...</p>
+    - <p align="justify">02.3.2.2)**out: It Is A Java Programming Class From The System Package From The Programming Language That Mainly Used To Get Print Method To Print A Message For The User Of Your Own Java Computer Programming Code...</P>
+    - <p align="justify">02.3.2.3)**print: It Is Mainly Used To Print A Message Text For The User Of Your Own Java Computer Programming Codes...</p>
 
 ----------------------------------------------------------------------------------------------------------------
 
 #### Very Important Notes:
 
 > [!important]
-> <p align="center">Java Programming Language Is A Case Sensitive Language , This Means That The Java Programming Is Affected By Small Letters , Or Capital Letters Like The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter , The out Class From The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter , The print Method (Function) From The out Class From The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter...</p>
+> <p align="justify">Java Programming Language Is A Case Sensitive Language , This Means That The Java Programming Is Affected By Small Letters , Or Capital Letters Like The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter , The out Class From The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter , The print Method (Function) From The out Class From The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter...</p>
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-> [!Tips]
+> [!Tip]
 > <p align="justify">Different Types Of Comments Like Single Comment , Or Multiple Lines Comments Does Not Appear For Different Users Of Your Own Java Computer Programming Codes While Executing , Or Running Your Own Java Computer Programming Codes...</p>
 > <p align="justify">Different Types Of Comments Are Used As A Tool Tip For Different Developers To Know Why The Developer Writting This Line Of Code...</p>
 
