@@ -29,3 +29,14 @@
     </td>
   </tr>
 </table>
+
+-----------------------------------------------------------------------------------------------------------------------
+
+> [!tip]
+> <p align="justify">If You Want To Format , Or Style Your Own Java Computer Programming Codes Outputs , Then You Must Use Any Escape Characters , Or Escape Sequences From The Java Programming Language...</p>
+
+------------------------------------------------------------------------------------------------------------------------
+### 03.2)**What Is The Escape Sequence (Escape Character)?
+  - <p align="justify"><strong>Escape Sequence (Escape Character):</strong> It Refers To Different Ways Of Styling , Or Formatting Different Java Programming Codes...</p>
+  - <strong>There Are Different Ways Of Formatting , Or Styling Java Programming Codes Like:</strong>
+    - <p align="justify">"\n": New Line , It Is Mainly Used To Position The Screen Cursor At The Beginning Of The Next Line...</p>
