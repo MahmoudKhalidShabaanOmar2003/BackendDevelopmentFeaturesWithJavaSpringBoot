@@ -32,7 +32,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------
 
-> [!tip]
+> [!Tip]
 > <p align="justify">If You Want To Format , Or Style Your Own Java Computer Programming Codes Outputs , Then You Must Use Any Escape Characters , Or Escape Sequences From The Java Programming Language...</p>
 
 ------------------------------------------------------------------------------------------------------------------------
