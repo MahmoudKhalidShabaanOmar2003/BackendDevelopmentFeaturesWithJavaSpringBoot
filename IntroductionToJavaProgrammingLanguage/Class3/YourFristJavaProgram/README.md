@@ -34,13 +34,16 @@
     - <p align="justify">02.3.2.2)**out: It Is A Java Programming Class From The System Package From The Programming Language That Mainly Used To Get Print Method To Print A Message For The User Of Your Own Java Computer Programming Code...</P>
     
     - <p align="justify">02.3.2.3)**print: It Is Mainly Used To Print A Message Text For The User Of Your Own Java Computer Programming Codes...</p>
-
+    
+  <p align="center"><img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/PrintingLine.png" alt="Printing Line..." /></p>
+  
 ----------------------------------------------------------------------------------------------------------------
 
 #### Very Important Notes:
 
 > [!important]
 > <p align="justify">Java Programming Language Is A Case Sensitive Language , This Means That The Java Programming Is Affected By Small Letters , Or Capital Letters Like The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter , The out Class From The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter , The print Method (Function) From The out Class From The System Package From The Java Programming Language , The Frist Letter Must Be A Capital Letter...</p>
+> <img src="https://github.com/MahmoudKhalidShabaanOmar2003/BackendDevelopmentFeaturesWithJavaSpringBoot/blob/main/IntroductionToJavaProgrammingLanguage/Class3/YourFristJavaProgram/YourFristJavaProgramImages/SyntaxError2.png" alt="Case Sensitive Error..." align="center" />
 
 --------------------------------------------------------------------------------------------------------------------
 
